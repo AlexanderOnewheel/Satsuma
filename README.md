@@ -1,6 +1,7 @@
-# Satsuma
+Satsuma 
 A Windows take on Tangerine for Mac. Drag files in File Explorer, hold **Shift**, and a wheel of formats appears under your pointer. Drop on a format and the converted copy lands beside the original. Everything runs locally.
-![wheels](docs/wheels.png)
+![wheels]
+<img width="1216" height="446" alt="wheels" src="https://github.com/user-attachments/assets/fadb5fb5-9957-45d9-be92-ddb150e35e73" />
 
 | Hold while dragging | Ring | What's on it |
 |---|---|---|
